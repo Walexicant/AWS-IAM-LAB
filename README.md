@@ -62,4 +62,12 @@ Launch Instance: Amazon Linux 2, type t2.micro (Free Tier). Create/use a key pai
 
 ScreenShot Shows The Inbound Rule That Allows Connection to EC2 through SSH and HTTP
 
+#  3. User Data (cloud-init)
 
+![USER DATA](./screenshots/UserData.jpg)
+
+The script above Installs an Apache Server On The EC2 Server
+
+# 4. SSH Client to EC2 Instance
+
+![ssh](./screenshots/SSH%20.jpg)

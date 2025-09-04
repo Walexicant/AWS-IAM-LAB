@@ -6,7 +6,7 @@
   The Script Creates A developer Group
 
 
-# Attach S3Access
+# Attach S3 Access
 
 ![S3 Access](./screenshots/S3Access.jpg)
 
@@ -18,8 +18,14 @@ The Script Attach S3 Access Policy to The  Group
 
 The Script Above Creates New User
 
-# Add Users to Developer Group
+# Add Users To Developer Group
 
 ![ADD USER](./screenshots/Add%20User%20To%20Group.jpg)
 
 The Script Above adds users to the developers group
+
+# Create A Custom Policy
+![Custom policy](./screenshots/ESC2%20Start%20and%20Stop.%20json.jpg)
+![Custom Policy](./screenshots/json2.jpg)
+
+The Script Shows The JSON Policy File That Allows Start And Stop

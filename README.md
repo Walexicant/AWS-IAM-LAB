@@ -1,6 +1,6 @@
 
 
-# This is An Assignement To Test AWS Knowledge 
+# THIS IS AN ASSIGNMENT TO TEST OUR AWS KNOWLEDGE
 
 
 # 1. Create Developers Group

@@ -24,6 +24,16 @@ The Script Above Creates New User
 
 The Script Above adds users to the developers group
 
+# Check User Access
+ ![Check User Access](./screenshots/S3UserAccess.jpg)
+ ![Check User Access](./screenshots/student%202.jpg)
+
+ The Screenshot Above Show That Both Students Can Create an S3 Bucket
+
+
+
+
+
 # Create A Custom Policy
 ![Custom policy](./screenshots/ESC2%20Start%20and%20Stop.%20json.jpg)
 ![Custom Policy](./screenshots/json2.jpg)

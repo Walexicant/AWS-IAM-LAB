@@ -41,3 +41,8 @@ The Script Above adds users to the developers group
 ![Custom Policy](./screenshots/json2.jpg)
 
 The Script Shows The JSON Policy File That Allows Start And Stop
+
+# ATTACH CUSTOM POLICY TO A STUDENT
+![ ATTACH POLICY ](./screenshots/Custompolicy%20Attach.jpg)
+
+The ScreenShot Show The Policy has been attached to student 1

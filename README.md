@@ -71,3 +71,15 @@ The script above Installs an Apache Server On The EC2 Server
 # 4. SSH Client to EC2 Instance
 
 ![ssh](./screenshots/SSH%20.jpg)
+
+Image Above Allows SSH from My PC to the EC2 Instance
+
+# 5. Access The webpage from The Browser
+  
+  ![Web Public](./screenshots/Web%20Public.jpg)
+
+  The Screenshot Above Allows Connection to the EC2 Web Page Externally Through its Public IP
+
+ 
+ 
+  # *** END***

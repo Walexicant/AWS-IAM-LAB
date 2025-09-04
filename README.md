@@ -36,13 +36,30 @@ The Script Above adds users to the developers group
 
 
 
-# Create A Custom Policy
+# 6. Create A Custom Policy
 ![Custom policy](./screenshots/ESC2%20Start%20and%20Stop.%20json.jpg)
 ![Custom Policy](./screenshots/json2.jpg)
 
 The Script Shows The JSON Policy File That Allows Start And Stop
 
-# ATTACH CUSTOM POLICY TO A STUDENT
+# 7. Attach Custom Policy To A Student
 ![ ATTACH POLICY ](./screenshots/Custompolicy%20Attach.jpg)
 
 The ScreenShot Show The Policy has been attached to student 1
+
+
+#  Assignment 2: EC2 – Launch a Linux Web Server
+# ##############################################
+
+# 1. Instance Launch
+![Launch an Instance](./screenshots/Instance%20Type.jpg)
+
+Launch Instance: Amazon Linux 2, type t2.micro (Free Tier). Create/use a key pair. Network: default
+ VPC or your lab VPC.
+
+ # 2. Inbound Rule For SSH HTTP
+ ![INBOUND RULE](./screenshots/Inbound.jpg)
+
+ScreenShot Shows The Inbound Rule That Allows Connection to EC2 through SSH and HTTP
+
+

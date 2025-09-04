@@ -68,13 +68,13 @@ ScreenShot Shows The Inbound Rule That Allows Connection to EC2 through SSH and 
 
 The script above Installs an Apache Server On The EC2 Server
 
-# 4. SSH Client to EC2 Instance
+# 4. SSH Client To EC2 Instance
 
 ![ssh](./screenshots/SSH%20.jpg)
 
 Image Above Allows SSH from My PC to the EC2 Instance
 
-# 5. Access The webpage from The Browser
+# 5. Access The webpage From The Browser
   
   ![Web Public](./screenshots/Web%20Public.jpg)
 
